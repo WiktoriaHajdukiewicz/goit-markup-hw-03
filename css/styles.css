@@ -248,6 +248,7 @@ img {
 
 .header-info {
   display: flex;
+  padding: 24px 0;
 }
 
 .container {
@@ -260,11 +261,13 @@ img {
   display: flex;
   align-items: center;
   margin-right: auto;
+  padding: 24px 0;
 }
 
 .menu {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 
 .contacts {
